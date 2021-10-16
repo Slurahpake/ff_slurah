@@ -3,5 +3,14 @@
 # Like & Subscribe
 127.0.0.1 localhost
 127.0.0.1 api.ghzs.com
-127.0.0.1 plugin.ghzs.com
-127.0.0.1 uapi.ghzs.com
+127.0.0.1 adc3-launch.adcolony.com
+127.0.0.1 adc3-launch-staging.adcolony.com
+127.0.0.1 wd.adcolony.com
+127.0.0.1 graph.%s
+127.0.0.1 graph-video.%s
+127.0.0.1 googlemobileadssdk.page.link
+127.0.0.1 apps.admob.com
+127.0.0.1 googleads.g.doubleclick.net
+127.0.0.1 pagead2.googlesyndication.com
+127.0.0.1 support.google.com
+127.0.0.1 www.googleapis.com
