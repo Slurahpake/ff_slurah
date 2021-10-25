@@ -1,0 +1,7 @@
+#Copyright (c) 2021 SLURAH YT
+# https://youtube.com/channel/UCZvO9x4YSVo7F2t5qs8pXEg
+# Like & Subscribe
+
+api.ghzs.com
+plugin.ghzs.com
+uapi.ghzs.com
